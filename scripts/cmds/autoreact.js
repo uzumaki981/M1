@@ -36,7 +36,7 @@ module.exports = {
       const texts = [
         { k: ["haha","lol","moja","xd"], r: "😆" },
         { k: ["sad","kharap","kosto","mon kharap","cry"], r: "😢" },
-        { k: ["love","valobasi","miss","alya","hinata","baby","bot","jan","bby"], r: "🥹" },
+        { k: ["love","valobasi","miss","hinata", "tsunade","baby","bot","jan","bby"], r: "😻" },
         { k: ["rag","angry","rage"], r: "😡" },
         { k: ["wow","omg"], r: "😮" },
         { k: ["prefix"], r: "🤖" },
