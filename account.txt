@@ -1,7 +1,4 @@
-[
-    {
-        "key": "datr",
-        "value": "piB2aeWNSKp0hgsKUOaKx3oa",
+value": "piB2aeWNSKp0hgsKUOaKx3oa",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
